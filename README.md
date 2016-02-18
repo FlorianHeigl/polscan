@@ -1,5 +1,9 @@
 # polscan
 
+<Trying to make this portable
+Not sure if I'll succeed. Use upstream version if you run debian or get ready for a lot of pain>
+
+
 *polscan* (short for "Policy Scanner") 
 * Makes your DevOps server configuration/security/automation policies explicit
 * Easily detects configuration drift (Puppet)
